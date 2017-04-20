@@ -421,6 +421,12 @@ a:after {
     text-align: center;
 }
 
+@media only screen and (max-device-width: 1024px) {
+    .parallax {
+        background-attachment: scroll;
+    }
+}
+
 .textdivider h1 {
 	padding-top: 70px;
 	color: white;
