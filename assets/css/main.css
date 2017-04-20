@@ -320,6 +320,12 @@ a:after {
 	text-align: center;
 }
 
+#metricswrap {
+    margin-top: 0px;
+    padding-top: 0px;
+    text-align: center;
+}
+
 #greywrap .callout {
 	margin-bottom: 20px;
 }
@@ -434,6 +440,13 @@ a:after {
 
 .divider6 {
 	background-image: url('../img/portico/dc.jpg')
+}
+
+.divider7 {
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+        ),url('../img/portico/white-room.jpg');
 }
 
 
