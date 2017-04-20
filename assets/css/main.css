@@ -398,10 +398,10 @@ a:after {
     /*height: 500px; */
 
     /* Create the parallax scrolling effect */
-    background-attachment: fixed;
+    /*background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;*/
 
 
     background-position: center center;
@@ -421,7 +421,7 @@ a:after {
     text-align: center;
 }
 
-@media only screen and (max-width: 768px){
+/*@media only screen and (max-width: 768px){
     .section-divider {
         z-index: 999;
         width: 100%;
@@ -452,7 +452,7 @@ a:after {
         
         text-align: center;
     }
-}
+}*/
 
 .textdivider h1 {
 	padding-top: 70px;
