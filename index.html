@@ -24,6 +24,7 @@
     <script src="assets/js/jquery.min.js"></script>
 	<script type="text/javascript" src="assets/js/modernizr.custom.js"></script>
 	<script type="text/javascript" src="assets/js/countUp.min.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.inview.js"></script>
     
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -420,11 +421,23 @@
 
 	<script>
 		$(function(){
-			var numAnim = new CountUp("metric1", 0, 30);
+			// var numAnim = new CountUp("metric1", 0, 30);
+			// numAnim.start();
+
+			// var numAnim = new CountUp("metric2", 0, 200);
+			// numAnim.start();
+		});
+
+		$('#metric1').bind('inview', function (event, visible) {
+		  if (visible == true) {
+		    var numAnim = new CountUp("metric1", 0, 30);
 			numAnim.start();
 
 			var numAnim = new CountUp("metric2", 0, 200);
 			numAnim.start();
+		  } else {
+		    // element has gone out of viewport
+		  }
 		});
 	</script>
   </body>
