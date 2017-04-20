@@ -275,10 +275,19 @@ a:after {
 	margin-top: -50px;
 	padding-top:120px;
 	text-align:center;
-	background-attachment: relative;
-	background-position: center center;
-	min-height: 650px;
+	/*background-attachment: relative;*/
+	/*background-position: center center;*/
+	/*min-height: 650px;*/
 	width: 100%;
+
+    /* Set a specific height */
+    height: 650px; 
+
+    /* Create the parallax scrolling effect */
+    /*background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/
 	
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -384,6 +393,15 @@ a:after {
     padding-top: 30px;
     padding-bottom: 70px;
     margin-top: 45px;
+
+    /* Set a specific height */
+    /*height: 500px; */
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 
     background-position: center center;
