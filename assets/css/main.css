@@ -654,6 +654,10 @@ a:after {
 	background: #f2f2f2;
 }
 
+.portico-logo{
+    width:650px;
+    height:150px;
+}
 
 /* ==========================================================================
    MEDIA QUERIES
@@ -678,5 +682,15 @@ a:after {
 		font-size: 30px;
 		line-height: 38px;
 	}
+
+    .portico-logo{
+        width:200px;
+        height:80px;
+    }
 }
+
+
+
+
+
 
