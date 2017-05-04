@@ -444,8 +444,8 @@ a:after {
 
 .divider1 {
 	background-image: linear-gradient(
-        rgba(0,0,0,0.3),
-        rgba(0,0,0,0.3)
+        rgba(0,0,0,0.2),
+        rgba(0,0,0,0.2)
         ),url('../img/portico/path.jpg');
 }
 
@@ -454,7 +454,7 @@ a:after {
     background-image: linear-gradient(
         rgba(0,0,0,0.2),
         rgba(0,0,0,0.2)
-        ),url('../img/portico/girl-smiling.jpg');
+        ),url('../img/portico/global.jpg');
 }
 
 .divider3 {
