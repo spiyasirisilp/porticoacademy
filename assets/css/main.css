@@ -271,7 +271,14 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/header_bg.jpg) no-repeat center top;
+	/*background: url(../img/portico/yale.jpg) no-repeat center top;*/
+
+    background-image: linear-gradient(
+        rgba(0,0,0,0.1),
+        rgba(0,0,0,0.1)
+        ),url('../img/portico/classroom.jpg');
+
+
 	margin-top: -50px;
 	padding-top:120px;
 	text-align:center;
@@ -436,7 +443,10 @@ a:after {
 /* Section Dividers Backgrounds */
 
 .divider1 {
-	background-image: url('../img/bg/divider1.jpg')
+	background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+        ),url('../img/portico/path.jpg');
 }
 
 .divider2 {
@@ -448,7 +458,7 @@ a:after {
 }
 
 .divider3 {
-	background-image: url('../img/portico/notebook.jpg');
+	background-image: url('../img/portico/graduate.jpg');
 	margin-top: 0px;
 }
 

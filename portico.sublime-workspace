@@ -3,402 +3,6 @@
 	{
 		"selected_items":
 		[
-			[
-				"succe",
-				"successfully"
-			],
-			[
-				"forgot",
-				"forgotPasswordForm"
-			],
-			[
-				"servi",
-				"servicesListBox"
-			],
-			[
-				"busin",
-				"businessDetails"
-			],
-			[
-				"regi",
-				"registerSuccess"
-			],
-			[
-				"resp",
-				"responseJSON"
-			],
-			[
-				"request",
-				"requestedTime"
-			],
-			[
-				"mess",
-				"messageType"
-			],
-			[
-				"getF",
-				"getBusinessAccountVerification"
-			],
-			[
-				"biz",
-				"bizSignUpGroup4"
-			],
-			[
-				"mes",
-				"messageID"
-			],
-			[
-				"busi",
-				"businessDetails"
-			],
-			[
-				"topl",
-				"businessTopLevelAlert"
-			],
-			[
-				"pictu",
-				"businessProfilePicture"
-			],
-			[
-				"business",
-				"businessDetails"
-			],
-			[
-				"populateBu",
-				"populateBusinessInfo"
-			],
-			[
-				"userprof",
-				"userProfilePicture"
-			],
-			[
-				"userpro",
-				"userProfilePicture"
-			],
-			[
-				"userPro",
-				"userProfilePicture"
-			],
-			[
-				"displ",
-				"displayMessage"
-			],
-			[
-				"input",
-				"uploadPicturesInput"
-			],
-			[
-				"succ",
-				"successfully"
-			],
-			[
-				"ex",
-				"exception"
-			],
-			[
-				"bus",
-				"businessDetails"
-			],
-			[
-				"busine",
-				"businessDetails"
-			],
-			[
-				"take",
-				"take10000"
-			],
-			[
-				"disp",
-				"disputeID"
-			],
-			[
-				"conta",
-				"contactBusinessString"
-			],
-			[
-				"histo",
-				"businessHistoryGroup"
-			],
-			[
-				"refund",
-				"refundForm"
-			],
-			[
-				"message",
-				"messageID"
-			],
-			[
-				"messa",
-				"messageID"
-			],
-			[
-				"postco",
-				"postCommentButton"
-			],
-			[
-				"subR",
-				"subResponsesGroup"
-			],
-			[
-				"me",
-				"messageButtonsGroup"
-			],
-			[
-				"sub",
-				"submittedDate"
-			],
-			[
-				"get",
-				"getUrlParameter"
-			],
-			[
-				"save",
-				"saveBusinessMethod"
-			],
-			[
-				"favor",
-				"favoriteBusinessButton"
-			],
-			[
-				"mem",
-				"userMemberSinceLabel"
-			],
-			[
-				"getUser",
-				"getUserMetrics"
-			],
-			[
-				"complete",
-				"userCompletedRequestsLabel"
-			],
-			[
-				"bids",
-				"bidsReceivedGroup"
-			],
-			[
-				"group",
-				"bidsReceivedGroup"
-			],
-			[
-				"commen",
-				"commentsSection"
-			],
-			[
-				"write",
-				"writeReviewButton"
-			],
-			[
-				"link",
-				"showCommentsLink"
-			],
-			[
-				"busie",
-				"businessDetails"
-			],
-			[
-				"busies",
-				"businessIDLabel"
-			],
-			[
-				"prof",
-				"businessProfilePicInput"
-			],
-			[
-				"check",
-				"defaultPaymentCheckbox"
-			],
-			[
-				"acc",
-				"accountNumber"
-			],
-			[
-				"show",
-				"showStep2"
-			],
-			[
-				"submit",
-				"submitMessageButton"
-			],
-			[
-				"top",
-				"businessTopLevelAlert"
-			],
-			[
-				"create",
-				"createAlert"
-			],
-			[
-				"aler",
-				"biddingPageAlert"
-			],
-			[
-				"alert",
-				"businessTopLevelAlert"
-			],
-			[
-				"form",
-				"businessRegistrationForm"
-			],
-			[
-				"job",
-				"jobID"
-			],
-			[
-				"bu",
-				"businessDetails"
-			],
-			[
-				"web",
-				"webSite"
-			],
-			[
-				"des",
-				"requestDescriptionLabel"
-			],
-			[
-				"add",
-				"jobAddressLabel"
-			],
-			[
-				"pri",
-				"agreedPriceLabel"
-			],
-			[
-				"requ",
-				"requestNameLabel"
-			],
-			[
-				"userR",
-				"user-request-table"
-			],
-			[
-				"businessD",
-				"businessDetails"
-			],
-			[
-				"businessDe",
-				"businessDescriptionLabel"
-			],
-			[
-				"payment",
-				"paymentInfo"
-			],
-			[
-				"pay",
-				"paymentInfo"
-			],
-			[
-				"phone",
-				"phone_Number"
-			],
-			[
-				"html",
-				"htmlString"
-			],
-			[
-				"exi",
-				"expirationYear"
-			],
-			[
-				"exp",
-				"expirationMonth"
-			],
-			[
-				"tab",
-				"tabID"
-			],
-			[
-				"json",
-				"jsonObject"
-			],
-			[
-				"zip",
-				"serviceRequestZipcode"
-			],
-			[
-				"date",
-				"serviceRequestDate"
-			],
-			[
-				"end",
-				"endpoint"
-			],
-			[
-				"modal",
-				"modal-content"
-			],
-			[
-				"noti",
-				"notificationsList"
-			],
-			[
-				"emplo",
-				"employee-profile-page"
-			],
-			[
-				"cale",
-				"calendar"
-			],
-			[
-				"calendar-",
-				"calendar-nav"
-			],
-			[
-				"dash",
-				"dashboard-page"
-			],
-			[
-				"book",
-				"booking-modal"
-			],
-			[
-				"pro",
-				"profile-nav"
-			],
-			[
-				"past",
-				"past-apt-nav"
-			],
-			[
-				"prev",
-				"profile-nav"
-			],
-			[
-				"pas",
-				"past-apt-nav"
-			],
-			[
-				"curr",
-				"curr-apt-nav"
-			],
-			[
-				"Curr",
-				"CurrAppointments"
-			],
-			[
-				"datetim",
-				"datetimepicker4"
-			],
-			[
-				"addE",
-				"addEventModal"
-			],
-			[
-				"margi",
-				"margin-left"
-			],
-			[
-				"Address",
-				"Address_Line_1"
-			],
-			[
-				"te",
-				"title"
-			],
-			[
-				"ionic",
-				"ionicModal"
-			]
 		]
 	},
 	"buffers":
@@ -407,15 +11,32 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 19150,
+				"buffer_size": 19749,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "image-links.txt",
+			"settings":
+			{
+				"buffer_size": 252,
+				"line_ending": "Unix",
+				"name": "image links:"
 			}
 		},
 		{
 			"file": "assets/css/main.css",
 			"settings":
 			{
-				"buffer_size": 11684,
+				"buffer_size": 12278,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/icomoon.css",
+			"settings":
+			{
+				"buffer_size": 22057,
 				"line_ending": "Unix"
 			}
 		}
@@ -423,19 +44,15 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 0.0,
 		"selected_items":
 		[
-			[
-				"Package",
-				"Package Control: List Packages"
-			]
 		],
-		"width": 449.0
+		"width": 0.0
 	},
 	"console":
 	{
-		"height": 125.0
+		"height": 0.0
 	},
 	"distraction_free":
 	{
@@ -448,130 +65,7 @@
 	},
 	"file_history":
 	[
-		"/Users/siwatmpiyasirisilp/Downloads/Shield/Shield Theme/assets/css/icomoon.css",
-		"/Users/siwatmpiyasirisilp/Downloads/Shield/Shield Theme/assets/css/main.css",
-		"/Users/siwatmpiyasirisilp/Downloads/Shield/Shield Theme/index.html",
-		"/Users/siwatmpiyasirisilp/Downloads/Shield 2/Shield Theme/index.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/js/jquery.payment.min.js",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/head.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/submit-a-request2.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/business-profile.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/js/custom.js",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/bid-messages.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/bid-thread.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/business-message.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/css/custom.css",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/header.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/page-signup-business.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/user-profile.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/submit-a-request.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/pleaseRegister.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/signup.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/css/style.css",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/pleaseRegister2.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/bid-accepted.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/page-signup-user.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/business-pre-registration.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/user-pre-registration.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/write-review.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/bidding-page.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/index.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/job-page.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/page-login.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/user-registration.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/TODO",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/js/loadingoverlay_progress.min.js",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/js/loadingoverlay.min.js",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/javascript-files.html",
-		"/Users/siwatmpiyasirisilp/Downloads/horizontal-timeline/js/main.js",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/page-signup-business2.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/bidding-page-2.html",
-		"/Users/siwatmpiyasirisilp/Downloads/horizontal-timeline/js/modernizr.js",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/registration-success.html",
-		"/Users/siwatmpiyasirisilp/Downloads/the_project_v.1.3/html/template/page-login-2.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/backups/submit-a-request-backup.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/general-message-page.html",
-		"/Users/siwatmpiyasirisilp/Documents/TheProject2/footer.html",
-		"/Users/siwatmpiyasirisilp/Desktop/The_Project/submit-a-request.html",
-		"/Users/siwatmpiyasirisilp/Desktop/The_Project/js/homepage.js",
-		"/Users/siwatmpiyasirisilp/Desktop/The_Project/js/custom.js",
-		"/Users/siwatmpiyasirisilp/Desktop/The_Project/header.html",
-		"/Users/siwatmpiyasirisilp/Desktop/The_Project/footer.html",
-		"/Users/siwatmpiyasirisilp/Desktop/The_Project/js/template.js",
-		"/Users/siwatmpiyasirisilp/Desktop/The Project/html/template/header.html",
-		"/Users/siwatmpiyasirisilp/Desktop/The Project/html/template/js/homepage.js",
-		"/Users/siwatmpiyasirisilp/Desktop/The Project/html/template/index.html",
-		"/Users/siwatmpiyasirisilp/Desktop/The Project/html/template/js/custom.js",
-		"/Users/siwatmpiyasirisilp/Downloads/layoutit/src/myFile.html",
-		"/Users/siwatmpiyasirisilp/Downloads/the_project_v.1.3/html/template/bidding-page.html",
-		"/Users/siwatmpiyasirisilp/Downloads/the_project_v.1.3/html/template/business-profile.html",
-		"/Users/siwatmpiyasirisilp/Downloads/the_project_v.1.3/html/template/page-two-sidebars-left.html",
-		"/Users/siwatmpiyasirisilp/Downloads/the_project_v.1.3/html/template/page-signup3.html",
-		"/Users/siwatmpiyasirisilp/Downloads/the_project_v.1.3/html/template/user-profile.html",
-		"/Users/siwatmpiyasirisilp/Downloads/the_project_v.1.3/html/template/user-profile-2.html",
-		"/Users/siwatmpiyasirisilp/Downloads/the_project_v.1.3/html/template/page-signup.html",
-		"/Users/siwatmpiyasirisilp/Downloads/the_project_v.1.3/html/template/css/style.css",
-		"/Users/siwatmpiyasirisilp/Downloads/the_project_v.1.3/html/template/components-forms.html",
-		"/Users/siwatmpiyasirisilp/Downloads/the_project_v.1.3/html/template/components-counters.html",
-		"/Users/siwatmpiyasirisilp/Downloads/the_project_v.1.3/html/template/js/custom.js",
-		"/Users/siwatmpiyasirisilp/Downloads/the_project_v.1.3/html/template/page-about.html",
-		"/Users/siwatmpiyasirisilp/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/siwatmpiyasirisilp/Downloads/the_project_v.1.3/html/template/js/template.js",
-		"/Users/siwatmpiyasirisilp/Downloads/the_project_v.1.3/html/template/features-headers-gradient-light.html",
-		"/Users/siwatmpiyasirisilp/Downloads/the_project_v.1.3/html/intro-images/demo-10.jpg",
-		"/Users/siwatmpiyasirisilp/Downloads/the_project_v.1.3/TikiBarProject",
-		"/Users/siwatmpiyasirisilp/Desktop/JS Cheat Sheet",
-		"/Users/siwatmpiyasirisilp/Downloads/Angular-AdminLTE-master/README.md",
-		"/Users/siwatmpiyasirisilp/TikiBar/TikiBar/Views/Account/_BizRegister.cshtml",
-		"/Users/siwatmpiyasirisilp/TikiBar/TikiBar/Views/Home/PublicIndex.cshtml",
-		"/Users/siwatmpiyasirisilp/TikiBar/TikiBar/Views/Account/_UserRegister.cshtml",
-		"/Users/siwatmpiyasirisilp/TikiBar/TikiBar/Views/Shared/_PublicLayout.cshtml",
-		"/Users/siwatmpiyasirisilp/TikiBar/TikiBar/Views/Shared/_Layout.cshtml",
-		"/Users/siwatmpiyasirisilp/TikiBar/TikiBar/Views/Home/_About.cshtml",
-		"/Users/siwatmpiyasirisilp/TikiBar/TikiBar/Views/Account/_RegisterBusiness.cshtml",
-		"/Users/siwatmpiyasirisilp/TikiBar/TikiBar/Views/Account/_Register.cshtml",
-		"/Users/siwatmpiyasirisilp/TikiBar/TikiBar/Views/Account/_Login.cshtml",
-		"/Users/siwatmpiyasirisilp/TikiBar/TikiBar/Views/Account/_ExternalLoginsListPartial.cshtml",
-		"/Users/siwatmpiyasirisilp/TikiBar/TikiBar/Views/Home/Index.cshtml",
-		"/Users/siwatmpiyasirisilp/TikiBar/TikiBar/Views/Home/Test.cshtml",
-		"/Users/siwatmpiyasirisilp/TikiBar/TikiBar/Views/Home/Test2.cshtml",
-		"/Users/siwatmpiyasirisilp/TikiBar/TikiBar/Views/_ViewStart.cshtml",
-		"/Users/siwatmpiyasirisilp/TikiBar/TikiBar/Views/Shared/_LoginPartial.cshtml",
-		"/Users/siwatmpiyasirisilp/TikiBar/README.md",
-		"/Users/siwatmpiyasirisilp/myapp/node_modules/express/index.js",
-		"/Users/siwatmpiyasirisilp/myapp/node_modules/express/app.js",
-		"/Users/siwatmpiyasirisilp/Downloads/AJ's Project/user-profile2.html",
-		"/Users/siwatmpiyasirisilp/Downloads/AJ's Project/index.html",
-		"/Users/siwatmpiyasirisilp/Downloads/AJ's Project/js/agency.js",
-		"/Users/siwatmpiyasirisilp/Downloads/AdminLTE-2.3.0/index.html",
-		"/Users/siwatmpiyasirisilp/Downloads/fullcalendar-2.4.0/demos/agenda-views.html",
-		"/Users/siwatmpiyasirisilp/Downloads/AJ's Project/business-registration.html",
-		"/Users/siwatmpiyasirisilp/Downloads/AJ's Project/user-profile.html",
-		"/Users/siwatmpiyasirisilp/spiyasirisilp.github.io/README.md",
-		"/Users/siwatmpiyasirisilp/Downloads/AJ's Project/business-user.html",
-		"/Users/siwatmpiyasirisilp/Downloads/AJ's Project/css/agency.css",
-		"/Users/siwatmpiyasirisilp/Downloads/AJ's Project/LICENSE",
-		"/Users/siwatmpiyasirisilp/Downloads/Crunchify.pem",
-		"/Users/siwatmpiyasirisilp/Documents/Meteor_Project/simple-todos/simple-todos.css",
-		"/Users/siwatmpiyasirisilp/Documents/Meteor_Project/simple-todos/simple-todos.js",
-		"/Users/siwatmpiyasirisilp/Documents/Meteor_Project/simple-todos/simple-todos.html",
-		"/Users/siwatmpiyasirisilp/Downloads/animate.css",
-		"/Users/siwatmpiyasirisilp/Documents/Health App/src/index.html",
-		"/Users/siwatmpiyasirisilp/Downloads/creator-app/www/index.html",
-		"/Users/siwatmpiyasirisilp/Documents/Health App/src/css/awesome-list.css",
-		"/Users/siwatmpiyasirisilp/Downloads/modals/src/index.html",
-		"/Users/siwatmpiyasirisilp/Documents/Snocream/src/index.html",
-		"/Users/siwatmpiyasirisilp/Downloads/layoutit 5/src/js/scripts.js",
-		"/Users/siwatmpiyasirisilp/Documents/Bootstrap/Temp/responsivetable.js",
-		"/Users/siwatmpiyasirisilp/Downloads/layoutit 4/src/index.html",
-		"/Users/siwatmpiyasirisilp/Downloads/layoutit 2/src/index.html",
-		"/Users/siwatmpiyasirisilp/Documents/Bootstrap/Temp/createAccounts.html",
-		"/Users/siwatmpiyasirisilp/Documents/Bootstrap/Temp/dashboard.css",
-		"/Users/siwatmpiyasirisilp/Documents/Bootstrap/Temp/index.html",
-		"/Users/siwatmpiyasirisilp/Documents/Bootstrap/index.html",
-		"/Users/siwatmpiyasirisilp/Documents/Bootstrap/jqueryAPICall.html",
-		"/Users/siwatmpiyasirisilp/Documents/xCode Workspace/hello/todo/www/js/app.js",
-		"/Users/siwatmpiyasirisilp/Documents/xCode Workspace/hello/todo/www/index.html"
+		"/Users/siwatmpiyasirisilp/Documents/porticoacademy/assets/css/animate-custom.css"
 	],
 	"find":
 	{
@@ -582,7 +76,6 @@
 		"height": 0.0,
 		"where_history":
 		[
-			""
 		]
 	},
 	"find_state":
@@ -590,134 +83,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"https",
-			"twitter",
-			"header",
-			"our students",
-			"img",
-			"navbar",
-			"navbar-brand",
-			"nav-brand",
-			"our team",
-			"text",
-			"icon-text",
-			"alert(",
-			"displaymessage",
-			"geturlparameter",
-			"businesstoplevelalert",
-			"createAlert",
-			"populateBusinessInfo",
-			"updateBusinessInfo",
-			"businessProfileUpdateForm",
-			"userProfilePicture",
-			"userprofilepicture",
-			"filesto",
-			"filesToUpload",
-			"uploadfiles",
-			"userProfilePictureInput",
-			"prepareUpload",
-			"user profile",
-			"owl-carousel",
-			"clientUploadedPicsCarousel",
-			"populateBusinessInfo",
-			"populatebusinessInfo",
-			"businessDetails = ",
-			"past",
-			"profile picture",
-			"magicsuggest",
-			"services",
-			"updatebusinessinfo",
-			"populateBusinessInfo",
-			"updatebusinessinfo",
-			"businessTopLevelAlert",
-			"toplevelalert",
-			"updateBusinessInfo",
-			"businessProfileUpdateForm",
-			"Mckinney",
-			"populatebusinessinfo",
-			"name=\"city",
-			"populateBusinessInfo",
-			"postBusinessAccountVerification",
-			"zipcode",
-			"getBusinessAccountVerification",
-			"pah",
-			"modal",
-			"postBusinessAccountVerification",
-			"getBusinessAccountVerification",
-			"verifyBusiness()",
-			"getBusinessAccountVerification",
-			"businessRegistrationForm",
-			"getBusinessAccountVerification",
-			"phoneNumber",
-			"street",
-			"POST http://theoriginal.azurewebsites.net/api/Bank-Accounts/Business/45\ncustom.js:168 {\n	\"accountNumber\": \"000123456789\",\n	\"routingNumber\": \"110000000\",\n	\"default\": true\n}\nhttp://theoriginal.azurewebsites.net/api/Bank-Accounts/Business/45 Failed to load resource: the server responded with a status of 500 (Internal Server Error)\ncustom.js:1044 api/Bank-Accounts/Business/45 Failed!\ncustom.js:1045 {\n	\"readyState\": 4,\n	\"responseText\": \"{\\\"error\\\":{\\\"message\\\":\\\"Whoops! Something went very wrong!\\\",\\\"type\\\":\\\"Unknown\\\",\\\"param\\\":null,\\\"code\\\":125}}\",\n	\"responseJSON\": {\n		\"error\": {\n			\"message\": \"Whoops! Something went very wrong!\",\n			\"type\": \"Unknown\",\n			\"param\": null,\n			\"code\": 125\n		}\n	},\n	\"status\": 500,\n	\"statusText\": \"Internal Server Error\"\n}",
-			"bankform",
-			"requests",
-			"businessProfileUpdateFormAlert",
-			"webSite",
-			"email",
-			"webSite",
-			"updateBusinessInfo",
-			"businessProfileUpdateForm",
-			"userRegistrationForm",
-			"registersuccess",
-			"paymentInfo",
-			"formatdate",
-			"jobDateLabel",
-			"requested",
-			"yoursettingslink",
-			"nonscrollinglink",
-			"getjobs",
-			"displayUserAlert",
-			"alert",
-			"displayBusinessAlert",
-			"message=",
-			"getBusinessAccountVerification",
-			"postBusinessAccountVerification",
-			"getBusinessAccountVerification",
-			".done(",
-			"getBusinessAccountVerification",
-			"bankform",
-			"bizGoToStep5",
-			"businessRegistrationForm",
-			"bizGoToStep6",
-			"businessRegistrationForm",
-			"bankForm",
-			"bizGoToStep4",
-			"postBusinessAccountVerification",
-			"getBusinessAccountVerification",
-			"verifyStripeLink",
-			"getBusinessAccountVerification",
-			"phone_Number",
-			"card number",
-			"userRegistrationForm",
-			"carousel",
-			"address",
-			"createJobsTable",
-			"getjobs",
-			"your requests",
-			"businessMessageForm",
-			"getjobmessages",
-			"postcommentbutton",
-			"printAJAXRequest",
-			"postJobMessage",
-			"postJobMessageButton",
-			"messages",
-			"postjobmessage",
-			"favorites",
-			"addToFavoritesLink",
-			"filesToUpload",
-			"userProfilePictureInput",
-			"populateBusinessRequests",
-			"populateAvailableJobsTable",
-			"uploadPicturesInput",
-			"filesToUpload",
-			"userProfilePictureInput",
-			"filesToUpload",
-			"userProfilePictureInput",
-			"businessDetails.id",
-			"upload",
-			"updateBusinessInfo"
+			"divider7",
+			"#greywrap"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -725,23 +92,7 @@
 		"regex": false,
 		"replace_history":
 		[
-			"phoneNumber",
-			"line1",
-			"<i class=\"icon-book-open\"></i>Read Reviews",
-			"Schedule Service<i class=\"fa fa-check\"></i></a>",
-			"Read Reviews<i class=\"fa fa-search\"></i></a>",
-			"Read Reviews<i class=\"fa fa-address-card\"></i></a>",
-			"Read Reviews<i class=\"fa fa-edit\"></i></a>",
-			"Add to Favorites",
-			"fa-exclamation-triangle",
-			"search",
-			"View Data",
-			"60px",
-			"80px",
-			"btn-info",
-			"Symptom",
-			"symptom",
-			""
+			".greywrap"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -752,7 +103,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -760,15 +111,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 19150,
+						"buffer_size": 19749,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								8241,
+								8241
 							]
 						],
 						"settings":
@@ -777,25 +128,52 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2647.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "assets/css/main.css",
+					"file": "image-links.txt",
 					"settings":
 					{
-						"buffer_size": 11684,
+						"buffer_size": 252,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								252,
+								252
+							]
+						],
+						"settings":
+						{
+							"auto_name": "image links:",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/css/main.css",
+					"settings":
+					{
+						"buffer_size": 12278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7742,
+								7742
 							]
 						],
 						"settings":
@@ -805,6 +183,33 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
+						"translation.y": 6284.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/css/icomoon.css",
+					"settings":
+					{
+						"buffer_size": 22057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1334,
+								1340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 2547.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -815,11 +220,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 34.0
+		"height": 0.0
 	},
 	"input":
 	{
-		"height": 31.0
+		"height": 0.0
 	},
 	"layout":
 	{
@@ -869,6 +274,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 177.0,
+	"side_bar_width": 150.0,
 	"status_bar_visible": true
 }
