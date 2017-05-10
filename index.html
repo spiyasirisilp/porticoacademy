@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Portico Academy">
     <link rel="shortcut icon" href="assets/ico/favicon.png">
 
-    <title> Portico Academy</title>
+    <title lang="en"> Portico Academy</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -21,16 +21,18 @@
     <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
     
-    <script src="assets/js/jquery.min.js"></script>
+    <!--<script src="assets/js/jquery.min.js"></script>-->
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
 	<script type="text/javascript" src="assets/js/modernizr.custom.js"></script>
 	<script type="text/javascript" src="assets/js/countUp.min.js"></script>
 	<script type="text/javascript" src="assets/js/jquery.inview.js"></script>
-    
+	
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="assets/js/html5shiv.js"></script>
       <script src="assets/js/respond.min.js"></script>
     <![endif]-->
+
   </head>
 
   <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
@@ -52,14 +54,26 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="#home" class="smoothScroll">Home</a></li>
-			<li> <a href="#greywrap" class="smoothScroll"> Services</a></li>
-			<li> <a href="#about" class="smoothScroll"> About</a></li>
-			<li> <a href="#team" class="smoothScroll"> Acceptances</a></li>
-			<!-- <li> <a href="#portfolio" class="smoothScroll"> Portfolio</a></li> -->
-			<li> <a href="#blog" class="smoothScroll"> Testimonies</a></li>
-			<li> <a href="#contact" class="smoothScroll"> Contact</a></li>
-        </div><!--/.nav-collapse -->
+            <li><a href="#home" class="smoothScroll" lang="en">Home</a></li>
+			<li> <a href="#greywrap" class="smoothScroll" lang="en"> Services</a></li>
+			<li> <a href="#about" class="smoothScroll" lang="en"> About</a></li>
+			<li> <a href="#team" class="smoothScroll" lang="en"> Acceptances</a></li>
+			<li> <a href="#blog" class="smoothScroll" lang="en"> Testimonies</a></li>
+			<li> <a href="#contact" class="smoothScroll" lang="en"> Contact</a></li>
+			<li class="dropdown">
+	          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" lang="en">Language <span class="caret"></span></a>
+	          <ul class="dropdown-menu" role="menu">
+	            <li><a href="#" class="lang-selector" for="en">English</a></li>
+	            <li><a href="#" class="lang-selector" for="zh">中文</a></li>
+	          </ul>
+	        </li>
+		  </ul>
+		  <ul class="nav navbar-nav navbar-right">
+	        <li>
+	        	<a href="https://porticoacademy.customcollegeplan.com/" target="_blank" style="padding:0px;margin:0px;"><img class="img pull-right" src="assets/img/portico/college-planner-pro.png" style="background:none;position:relative;top:5px;width:200px;height:40px"></a>
+	        </li>
+	      </ul>
+        </div>
       </div>
     </div>
     </div>
@@ -72,7 +86,8 @@
 	  		 		<!-- <h1><span class="icon icon-shield"></span></h1> -->
 	  		 		<img class="img portico-logo" src="assets/img/portico/portico-logo.png" style="margin-top:100px">
 	  		 		<!-- <p style="font-size:50px">Portico Academy</p> -->
-	  		 		<p>Expert College Admission Educators</p>
+	  		 		<p lang="en">Expert College Admission Educators</p>
+	  		 		<p lang="zh">我真的很喜歡編碼。</p>
 	  		</header>	    
 	    </div><!-- /headerwrap -->
 
@@ -82,24 +97,24 @@
 				<div class="col-lg-4 callout hvr-grow">
 					<a href="#college-planning-modal" data-toggle="modal" style="color:#555">
 						<span class="icon icon-stack"></span>
-						<h2>College Planning</h2>
-						<p>A dedicated college planning consultant will work with your student to ensure s/he is well prepared on the road to college</p>
+						<h2 lang="en">College Planning</h2>
+						<p lang="en">A dedicated college planning counselor will work with your student to ensure s/he is well prepared on the road to college</p>
 					</a>
 				</div><!-- col-lg-4 -->
 					
 				<div class="col-lg-4 callout hvr-grow">
 					<a href="#college-applications-modal" data-toggle="modal" style="color:#555">
 						<span class="icon icon-file"></span>
-						<h2>College Applications</h2>
-						<p>A dedicated college admission consultant will support your student through strategic planning, expert school fit and profile assessment, essays, and more!</p>
+						<h2 lang="en">College Applications</h2>
+						<p lang="en">A dedicated college admission counselor will support your student through strategic planning, expert school fit and profile assessment, essays, and more!</p>
 					</a>
 				</div><!-- col-lg-4 -->	
 				
 				<div class="col-lg-4 callout hvr-grow">
 					<a href="#educational-workshops-modal" data-toggle="modal" style="color:#555">
 						<span class="icon icon-pencil"></span>
-						<h2>Educational Workshops</h2>
-						<p>Portico Academy offers educational workshops to parents and students on a wide range of topics ranging from school selection to essay writing</p>
+						<h2 lang="en">Educational Workshops</h2>
+						<p lang="en">Portico Academy offers educational workshops to parents and students on a wide range of topics ranging from school selection to essay writing</p>
 					</a>
 				</div><!-- col-lg-4 -->	
 			</div><!-- row -->
@@ -107,23 +122,23 @@
 
 		<section class="section-divider textdivider divider7" style="margin-top:0px">
 			<div class="container">
-				<h1 style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-bottom:0px">PORTICO BY THE NUMBERS</h1>
+				<h1 style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-bottom:0px" lang="en">PORTICO BY THE NUMBERS</h1>
 				<div class="row">
 					<div class="col-lg-3">
-						<h1 style="padding-top:0px"><span id="metric1"></span>+</h1>
-						<p>Years Combined Experience</p>
+						<h1 style="padding-top:0px" lang="en"><span id="metric1"></span>+</h1>
+						<p lang="en">Years Combined Experience</p>
 					</div>
 					<div class="col-lg-3">
-						<h1 style="padding-top:0px"><span id="metric2"></span>+</h1>
-						<p>International Students Advised<p>
+						<h1 style="padding-top:0px" lang="en"><span id="metric2"></span>+</h1>
+						<p lang="en">International Students Advised<p>
 					</div>
 					<div class="col-lg-3">
-						<h1 style="padding-top:0px"><span id="metric3">2</span></h1>
-						<p>Dedicated Counselors Per Student</p>
+						<h1 style="padding-top:0px" lang="en"><span id="metric3">2</span></h1>
+						<p lang="en">Dedicated Counselors Per Student</p>
 					</div>
 					<div class="col-lg-3">
-						<h1 style="padding-top:0px"><span id="metric4">1:10</span></h1>
-						<p>Counselor Student Ratio</p>
+						<h1 style="padding-top:0px" lang="en"><span id="metric4">1:10</span></h1>
+						<p lang="en">Counselor Student Ratio</p>
 					</div>
 				</div>
 			</div>
@@ -133,15 +148,15 @@
 		<div class="container" id="about" name="about">
 			<div class="row white">
 			<br>
-				<h1 class="centered">A LITTLE ABOUT OUR COMPANY</h1>
+				<h1 class="centered" lang="en">A LITTLE ABOUT OUR COMPANY</h1>
 				<hr>
 				
 				<div class="col-lg-6">
-					<p><b>Portico Academy</b> was founded in the D.C Metro Area when a small group of international and U.S. college admissions experts came together with one goal in mind: to empower international students through college admissions education. We've been Ivy League college admissions officers, high school guidance counselors, top internal student graduates, and private college admissions consultants - so we know how it all works and why. </p>
+					<p lang="en"><b>Portico Academy</b> was founded in the D.C Metro Area when a small group of international and U.S. college admissions experts came together with one goal in mind: to empower international students through college admissions education. We've been Ivy League college admissions officers, high school guidance counselors, top international student graduates, and private college admissions consultants - so we know how it all works and why. </p>
 				</div>
 
 				<div class="col-lg-6">
-					<p>We believe that knowing the "why" goes a long way with understanding the "how" - how to complete applications, how to build your resume, how to select best-fit colleges, how to tell your story - and how to do it all on time! With a combined 30+ years of experience, our accomplished bilingual team expertly and ethically arms you with the tools you need to navigate college admissions with authenticity and confidence.</p>
+					<p lang="en">We believe that knowing the "why" goes a long way with understanding the "how" - how to complete applications, how to build your resume, how to select best-fit colleges, how to tell your story, and how to do it all on time! With a combined 30+ years of experience, our accomplished bilingual team expertly and ethically arms you with the tools you need to navigate college admissions with authenticity and confidence.</p>
 				</div>
 			</div><!-- row -->
 		</div><!-- container -->
@@ -149,9 +164,9 @@
 		<!-- ==== SECTION DIVIDER1 -->
 		<section class="section-divider textdivider divider1">
 			<div class="container">
-				<h1>EVERY STEP OF THE WAY</h1>
+				<h1 lang="en">EVERY STEP OF THE WAY</h1>
 				<hr>
-				<p>College admissions can be a daunting process, especially for international students.</p><p> Portico will be with you every step of the way.</p>
+				<p lang="en">College admissions can be a daunting process, especially for international students.</p><p> Portico will be with you every step of the way.</p>
 			</div><!-- container -->
 		</section><!-- section -->
 		
@@ -161,13 +176,13 @@
 			<br>
 			<br>
 			<div class="row">
-				<h2 class="centered">THE PORTICO PROMISE</h2>
+				<h2 class="centered" lang="en">THE PORTICO PROMISE</h2>
 				<hr>
 				<br>
 				<div class="col-lg-offset-2 col-lg-8">
-					<p>Each student is assigned two personalized college consultants to guide, direct and provide insights to the student. Your student’s dedicated counselor will provide support in areas such as high school planning, summer activities, project management, strategic advising, college fit, and essay editing. 
+					<p lang="en">Each student is assigned two personalized college consultants to guide, direct and provide insights to the student. Your student’s dedicated counselor will provide support in areas such as high school planning, summer activities, project management, strategic advising, college fit, and essay editing. 
 					</p>
-					<p>The student takes full ownership of this process, is fully invested and involved in all decisions, and produces all of her own work under the mentorship  of a team of dedicated experts.</p>
+					<p lang="en">The student takes full ownership of this process, is fully invested and involved in all decisions, and produces all of his/her own work under the mentorship  of a team of dedicated experts.</p>
 				</div><!-- col-lg -->
 			</div><!-- row -->
 			
@@ -177,9 +192,9 @@
 		<!-- ==== SECTION DIVIDER2 -->
 		<section class="section-divider textdivider divider2">
 			<div class="container">
-				<h1>CULTIVATING CULTURAL COMPETENCY</h1>
+				<h1 lang="en">CULTIVATING CULTURAL COMPETENCY</h1>
 				<hr>
-				<p>With a diverse team of bilingual counselors, Portico Academy guide students to cultivate cultural competency by planning and implementing meaningful activities in the US and beyond. Starting from here, you are on the way to becoming global citizens. </p>
+				<p lang="en">With a diverse team of bilingual counselors, Portico Academy guides students to cultivate cultural competency by planning and implementing meaningful activities in the US and beyond. Starting now, you are on the way to becoming global citizens. </p>
 			</div><!-- container -->
 		</section><!-- section -->
 
@@ -187,7 +202,7 @@
 		<div class="container" id="team" name="team">
 		<br>
 			<div class="row white centered">
-				<h1 class="centered" style="text-transform:uppercase">We've helped students get into schools like</h1>
+				<h1 class="centered" style="text-transform:uppercase" lang="en">COLLEGE ACCEPTANCES WITH OUR EXPERTS</h1>
 				<hr>
 				<br>
 				<div class="col-lg-4">
@@ -243,7 +258,7 @@
 					</ul>
 				</div> -->
 				<div class="col-lg-12">
-					<p>*Numbers in the parenthesis represents the US News ranking</p>
+					<h5 lang="en" style="font-style:italic">*Numbers represent the 2017 US News ranking</h5>
 				</div>
 			</div><!-- row -->
 		</div><!-- container -->
@@ -256,8 +271,8 @@
 						<img class="img-responsive accepting-image" src="assets/img/portico/graduate.jpg" align="">
 					</div>
 					<div class="col-lg-6">
-						<h2>We Are Accepting!</h2>
-						<p>We are accepting 8-12th grade applicants! Feel free to shoot us a message to schedule a free consultation session</p>
+						<h2 lang="en">We Are Accepting!</h2>
+						<p lang="en">We are accepting 8-12th grade applicants! Feel free to shoot us a message to schedule a free consultation session</p>
 						<a href="mailto:info@porticoacademy.com?Subject=Portico Inquiry" target="_top" class="btn btn-success hvr-grow">Contact Us</a>
 					</div>					
 				</div>
@@ -273,7 +288,7 @@
 		<br>
 			<div class="row">
 				<br>
-				<h1 class="centered">WHAT OUR STUDENTS ARE SAYING</h1>
+				<h1 class="centered" lang="en">WHAT OUR STUDENTS ARE SAYING</h1>
 				<hr>
 				<br>
 				<br>
@@ -281,31 +296,30 @@
 			
 			<div class="row">
 				<div class="col-lg-6 blog-bg hvr-grow">
-					<div class="col-lg-4 centered">
+					<div class="col-lg-4 centered" style="height:400px">
 					<br>
-						<p><img class="img img-circle" src="assets/img/portico/denisen.jpeg" width="60px" height="60px"></p>
-						<h4>Leo</h4>
-						<h5 class="">Accepted to: <br>Rochester Institute of Technology, <br>Denison University, <br>Muhlenberg College, <br>Class of 2021</h5>
+						<p><img class="img img-circle" src="assets/img/portico/wake_forest.jpg" width="60px" height="60px"></p>
+						<h4 lang="en">Jason</h4>
+						<h5 lang="en">Accepted ED to: <br>Wake Forest University, <br>Class of 2021</h5>
 					</div>
-					<div class="col-lg-8 blog-content">
-						<h2>Hand in Hand</h2>
-						<p>Portico Academy helped me through my college applications. My counselor gave me advice for each school I chose and taught me about others schools that would really fit me. We worked through every individual school together. My counselor supported me in writing more than 20 essays. She always helped me with my ideas and helped correct my grammar. She helped me stay organized and submit all of applications on time.  If I were to give a grade, it is 100%. </p>
-						<p><a href="#" class="icon icon-link"> Read More</a></p>
+					<div class="col-lg-8 blog-content" style="height:400px">
+						<h2 lang="en">A Beautiful Story</h2>
+						<p lang="en">Portico Academy really helped me to be successful during my college application process. My college admissions counselor was really dedicated, professional and patient. From school selection to interview preparation, my counselor and Portico provided all the support I needed. I probably would not be able to get into my dream school without the help from Portico Academy</p>
+						<!-- <p lang="en"><a href="#" class="icon icon-link"> Read More</a></p> -->
 						<br>
 					</div>
 				</div><!-- /col -->
-				
 				<div class="col-lg-6 blog-bg hvr-grow">
 					<div class="col-lg-4 centered">
 					<br>
-						<p><img class="img img-circle" src="assets/img/portico/wake_forest.jpg" width="60px" height="60px"></p>
-						<h4>Jason</h4>
-						<h5>Accepted ED to: <br>Wake Forest University, <br>Class of 2021</h5>
+						<p><img class="img img-circle" src="assets/img/portico/denisen.jpeg" width="60px" height="60px"></p>
+						<h4 lang="en">Leo</h4>
+						<h5 class="" lang="en">Accepted to: <br>Rochester Institute of Technology, <br>Denison University, <br>Muhlenberg College, <br>Class of 2021</h5>
 					</div>
 					<div class="col-lg-8 blog-content">
-						<h2>A Beautiful Story</h2>
+						<h2 lang="en">Hand in Hand</h2>
 						<p>Portico Academy helped me through my college applications. My counselor gave me advice for each school I chose and taught me about others schools that would really fit me. We worked through every individual school together. My counselor supported me in writing more than 20 essays. She always helped me with my ideas and helped correct my grammar. She helped me stay organized and submit all of applications on time.  If I were to give a grade, it is 100%. </p>
-						<p><a href="#" class="icon icon-link"> Read More</a></p>
+						<!-- <p lang="en"><a href="#" class="icon icon-link"> Read More</a></p> -->
 						<br>
 					</div>
 				</div><!-- /col -->
@@ -318,24 +332,24 @@
 		<!-- ==== SECTION DIVIDER6 ==== -->
 		<section class="section-divider textdivider divider6">
 			<div class="container">
-				<h1>Located By the Nation's Capital</h1>
+				<h1 lang="en">Located By the Nation's Capital</h1>
 				<hr>
-				<p>Suite 202, 607 Herndon Parkway, VA</p>
-				<p>+1 571 375 1138</p>
-				<p><a class="icon icon-twitter" href="https://www.twitter.com/portico_academy" target="_blank"></a> | <a class="icon icon-facebook" href="https://www.facebook.com/porticoacademy/" target="_blank"></a></p>
+				<p lang="en">Suite 202, 607 Herndon Parkway, VA</p>
+				<p lang="en">+1 571 375 1138</p>
+				<p lang="en"><a class="icon icon-twitter" href="https://www.twitter.com/portico_academy" target="_blank"></a> | <a class="icon icon-facebook" href="https://www.facebook.com/porticoacademy/" target="_blank" ></a></p>
 			</div><!-- container -->
 		</section><!-- section -->
 		
 		<div class="container" id="contact" name="contact">
 			<div class="row">
 			<br>
-				<h1 class="centered">THANKS FOR VISITING US</h1>
+				<h1 class="centered" lang="en">THANKS FOR VISITING US</h1>
 				<hr>
 				<br>
 				<br>
 				<div class="col-lg-4">
-					<h3>Contact Information</h3>
-					<p><span class="icon icon-home"></span> Suite 202, 607 Herndon Parkway, Herndon, VA 20170<br/>
+					<h3 lang="en">Contact Information</h3>
+					<p lang="en"><span class="icon icon-home"></span> Suite 202, 607 Herndon Parkway, Herndon, VA 20170<br/>
 						<span class="icon icon-phone"></span> +1 571 375 1138 <br/>
 						<span class="icon icon-envelop"></span> <a href="mailto:info@porticoacademy.com?Subject=Portico Inquiry" target="_top"> info@porticoacademy.com</a> <br/>
 						<span class="icon icon-twitter"></span> <a href="https://twitter.com/portico_academy" target="_blank"> @Portico_Academy </a> <br/>
@@ -344,17 +358,17 @@
 				</div><!-- col -->
 				
 				<div class="col-lg-4">
-					<h3>Join Us by Email</h3>
-					<p>Sign up now for a free consultation session and be updated with the latest information regarding our services, offers, and much more</p>
+					<h3 lang="en">Join Us by Email</h3>
+					<p lang="en">Sign up now for a free consultation session and be updated with the latest information regarding our services, offers, and much more</p>
 					<p>
-					<a href="mailto:info@porticoacademy.com?Subject=Portico Inquiry" target="_top" class="btn btn-success hvr-grow">Contact Us</a>
+					<a href="mailto:info@porticoacademy.com?Subject=Portico Inquiry" target="_top" class="btn btn-success hvr-grow" lang="en">Contact Us</a>
 					</p>
 				</div><!-- col -->
 				
 				<div class="col-lg-4">
-					<h3>Join us on Wechat</h3>
-					<p>Scan the QR code below to follow our official Wechat account</p>
-					<p><img class="img-responsive" src="assets/img/qr-code.jpg" alt="" style="width:120px;height:100px"></p>
+					<h3 lang="en">Join us on Wechat</h3>
+					<p lang="en">Scan the QR code below to follow our official Wechat account</p>
+					<p><img class="img-responsive" src="assets/img/we-chat-qr.jpg" alt="" style="width:100px;height:100px;position:relative;top:-20px"></p>
 				</div><!-- col -->
 
 			</div><!-- row -->
@@ -363,7 +377,7 @@
 
 		<div id="footerwrap">
 			<div class="container">
-				<h4>Portico Academy LLC</h4>
+				<h4 lang="en">Portico Academy LLC</h4>
 			</div>
 		</div>
 
@@ -372,18 +386,18 @@
 		      <div class="modal-content">
 		        <div class="modal-header">
 		          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-		          <h4 class="modal-title">Here's what you get</h4>
+		          <h4 class="modal-title" lang="en">Here's what you get</h4>
 		        </div>
 		        <div class="modal-body">
 		          <!-- <p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p> -->
 		          <ul>
-		          	<li>Student Initial Assessment </li>
-					<li>Career/Major Assessment</li>
-					<li>Personality Assessment</li>
-					<li>Student College Planning Strategy</li>
-					<li>Activity Resume Building</li>
-					<li>Summer Program Application Support</li>
-					<li>Parent Communications and Education</li>
+		          	<li lang="en">Student Initial Assessment </li>
+					<li lang="en">Career/Major Assessment</li>
+					<li lang="en">Personality Assessment</li>
+					<li lang="en">Student College Planning Strategy</li>
+					<li lang="en">Activity Resume Building</li>
+					<li lang="en">Summer Program Application Support</li>
+					<li lang="en">Parent Communications and Education</li>
 				  </ul>
 		        </div>
 		        <!-- <div class="modal-footer">
@@ -398,18 +412,20 @@
 		      <div class="modal-content">
 		        <div class="modal-header">
 		          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-		          <h4 class="modal-title">Here's what you get</h4>
+		          <h4 class="modal-title" lang="en">Here's what you get</h4>
 		        </div>
 		        <div class="modal-body">
 		          <!-- <p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p> -->
 		          <ul>
-		          	<li>Customized College List </li>
-					<li>College Visit Coaching</li>
-					<li>Recommendation Letter Strategy</li>
-					<li>Essay Strategy and Support</li>
-					<li>Application Project Plan and Strategy</li>
-					<li>Final Enrollment Decision Support</li>
-					<li>Mock Interview and Interview Preparation</li>
+		          	<li lang="en">Customized College List </li>
+					<li lang="en">College Visit Coaching</li>
+					<li lang="en">Recommendation Letter Strategy</li>
+					<li lang="en">Essay Strategy and Support</li>
+					<li lang="en">Application Project Plan and Strategy</li>
+					<li lang="en">Final Enrollment Decision Support</li>
+					<li lang="en">Mock Interview and Interview Preparation</li>
+					<li lang="en">Three Committee Assessments and Review</li>
+					<li lang="en">Parent Communications and Education</li>
 				  </ul>
 		        </div>
 		        <!-- <div class="modal-footer">
@@ -424,15 +440,15 @@
 		      <div class="modal-content">
 		        <div class="modal-header">
 		          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-		          <h4 class="modal-title">Here's what you get</h4>
+		          <h4 class="modal-title" lang="en">Here's what you get</h4>
 		        </div>
 		        <div class="modal-body">
 		          <!-- <p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p> -->
 		          <ul>
-		          	<li>School Research Workshop </li>
-					<li>Brainstorm Workshop</li>
-					<li>Essay Writing Workshop</li>
-					<li>Parent Workshop</li>
+		          	<li lang="en">School Research Workshop </li>
+					<li lang="en">Brainstorm Workshop</li>
+					<li lang="en">Essay Writing Workshop</li>
+					<li lang="en">Parent Workshop</li>
 				  </ul>
 		        </div>
 		        <!-- <div class="modal-footer">
@@ -451,15 +467,30 @@
 	<script type="text/javascript" src="assets/js/retina.js"></script>
 	<script type="text/javascript" src="assets/js/jquery.easing.1.3.js"></script>
     <script type="text/javascript" src="assets/js/smoothscroll.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.cookie.js"></script>
 	<!--<script type="text/javascript" src="assets/js/jquery-func.js"></script>-->
 
 	<script>
-		$(function(){
-			// var numAnim = new CountUp("metric1", 0, 30);
-			// numAnim.start();
 
-			// var numAnim = new CountUp("metric2", 0, 200);
-			// numAnim.start();
+		var currLang = '';
+
+		$(function(){
+
+			if($.cookie('portico-lang')){
+				currLang = $.cookie('portico-lang');
+				displayLanguage(currLang);
+			}else{
+				currLang = 'en';
+				$.cookie('portico-lang', 'en', { expires: 365 });
+				displayLanguage(currLang);
+			}
+
+		});
+
+		$('.lang-selector').click(function(){
+			currLang = $(this).attr('for');
+
+			displayLanguage(currLang);
 		});
 
 		$('#metric1').bind('inview', function (event, visible) {
@@ -473,6 +504,20 @@
 		    // element has gone out of viewport
 		  }
 		});
+
+		function displayLanguage(currLang){
+			if(currLang == 'en'){
+				$('[lang="zh"]').hide();
+				$('[lang="en"]').show();
+				$.cookie('portico-lang', 'en');
+				console.log("curr lang: "+$.cookie('portico-lang'));
+			}else{
+				$('[lang="en"]').hide();
+				$('[lang="zh"]').show();
+				$.cookie('portico-lang', 'zh');
+				console.log("curr lang: "+$.cookie('portico-lang'));
+			}
+		}
 	</script>
   </body>
 </html>
