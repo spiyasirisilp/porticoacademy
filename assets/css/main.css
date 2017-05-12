@@ -274,9 +274,9 @@ a:after {
 	/*background: url(../img/portico/yale.jpg) no-repeat center top;*/
 
     background-image: linear-gradient(
-        rgba(0,0,0,0.1),
-        rgba(0,0,0,0.1)
-        ),url('../img/portico/oxford.jpg');
+        rgba(0,0,0,0.35),
+        rgba(0,0,0,0.35)
+        ),url('../img/portico/yale2.jpg');
 
 
 	margin-top: -50px;
