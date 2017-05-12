@@ -205,7 +205,7 @@
 			<br>
 			<div class="row">
 				<h2 class="centered" lang="en">THE PORTICO PROMISE</h2>
-				<h2 class="centered" lang="en">我们的承诺</h2>
+				<h2 class="centered" lang="zh">我们的承诺</h2>
 				<hr>
 				<br>
 				<div class="col-lg-offset-2 col-lg-8">
@@ -252,6 +252,14 @@
 						<li lang="en">UC Berkeley (20)</li>
 						<li lang="en">Emory University (20)</li>
 						<li lang="en">Parsons School of Design (Art School Top 4)</li>
+						<li lang="zh">Columbia University 哥伦比亚大学 (5)</li>
+						<li lang="zh">University of Pennsylvania 宾夕法尼亚大学 (8)</li>
+						<li lang="zh">Duke University 杜克大学 (8)</li>
+						<li lang="zh">Colgate University 科尔盖特大学 (文理学院综排12)</li>
+						<li lang="zh">Vanderbilt University 范德堡大学 (15)</li>
+						<li lang="zh">Washington University in St. Louis 圣路易斯华盛顿大学 (19)</li>
+						<li lang="zh">UC Berkeley 加州伯克利大学 (20)</li>
+						<li lang="zh">Emory University 埃默里大学 (20)</li>
 					</ul>
 				</div>
 				<div class="col-lg-4">
@@ -265,6 +273,15 @@
 						<li lang="en">Northeastern University (39)</li>
 						<li lang="en">UC San Diego (44)</li>
 						<li lang="en">University of the Arts London (Art School World Top 5)</li>
+						<li lang="zh">University of Virginia 弗吉尼亚大学 (24)</li>
+						<li lang="zh">Tufts University 塔夫茨大学 (27)</li>
+						<li lang="zh">Wake Forest 维克森林大学 (27)</li>
+						<li lang="zh">Boston College 波士顿学院 (31)</li>
+						<li lang="zh">Rochester University 罗彻斯特大学 (32)</li>
+						<li lang="zh">New York University 纽约大学 (36)</li>
+						<li lang="zh">Northeastern University 东北大学 (39)</li>
+						<li lang="zh">UC San Diego 加州大学圣地亚哥分校 (44)</li>
+						<li lang="zh">Parsons School of Design 帕森斯设计学院(艺术院校综排4)</li>
 					</ul>
 				</div>
 
@@ -278,6 +295,15 @@
 						<li lang="en">Purdue University (60)</li>
 						<li lang="en">Rutgers University (70)</li>
 						<li lang="en">Michigan State (82)</li>
+						<li lang="zh">Lehigh University 里海大学 (44)</li>
+						<li lang="zh">Penn State 宾州州立大学 (50)</li>
+						<li lang="zh">University of Washington 华盛顿大学 (54)</li>
+						<li lang="zh">University of Maryland 马里兰大学 (60)</li>
+						<li lang="zh">Syracuse University 雪城大学 (60)</li>
+						<li lang="zh">Purdue University 普渡大学 (60)</li>
+						<li lang="zh">Rutgers University 罗格斯大学 (70)</li>
+						<li lang="zh">Michigan State 密歇根州立大学 (82)</li>
+						<li lang="zh">University of the Arts London 伦敦艺术大学(艺术院校全球前5）</li>
 					</ul>
 				</div>
 
@@ -294,8 +320,9 @@
 					</ul>
 				</div> -->
 				<div class="col-lg-12">
+
 					<h5 lang="en" style="font-style:italic">*Numbers represent the 2017 US News ranking</h5>
-					<h5 lang="zh" style="font-style:italic">*注：括弧内数字为学校2017 US NEWS综合排名</h5>
+					<h5 lang="zh" style="font-style:italic;margin-top:20px">*注：括弧内数字为学校2017 US NEWS综合排名</h5>
 				</div>
 			</div><!-- row -->
 		</div><!-- container -->
@@ -575,10 +602,12 @@
 
 		});
 
-		$('.lang-selector').click(function(){
+		$('.lang-selector').click(function(e){
 			currLang = $(this).attr('for');
 
 			displayLanguage(currLang);
+
+			e.preventDefault();
 		});
 
 		$('#metric1').bind('inview', function (event, visible) {
