@@ -665,6 +665,10 @@ a:after {
     width: 80%;
 }
 
+.student-review{
+    height:400px;
+}
+
 /* ==========================================================================
    MEDIA QUERIES
    ========================================================================== */
@@ -692,6 +696,47 @@ a:after {
     .portico-logo{
         width:250px;
         height:80px;
+    }
+
+    #headerwrap {
+        /*background: url(../img/portico/yale.jpg) no-repeat center top;*/
+
+        background-image: linear-gradient(
+            rgba(0,0,0,0.35),
+            rgba(0,0,0,0.35)
+            ),url('../img/portico/yale2-min.jpg');
+
+
+        margin-top: -50px;
+        padding-top:120px;
+        text-align:center;
+        /*background-attachment: relative;*/
+        /*background-position: center center;*/
+        /*min-height: 650px;*/
+        width: 100%;
+
+        /* Set a specific height */
+        height: 650px; 
+
+        /* Create the parallax scrolling effect */
+        /*background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;*/
+        
+        -webkit-background-size: 100%;
+        -moz-background-size: 100%;
+        -o-background-size: 100%;
+        background-size: 100%;
+
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+
+    .student-review{
+        height:196px;
     }
 
    /* .accepting-image{
