@@ -737,6 +737,11 @@ a:after {
 
     .student-review{
         height:196px;
+        width:100vw;  
+    }
+
+    .portico-logo{
+        width:300px;
     }
 
    /* .accepting-image{
