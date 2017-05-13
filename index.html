@@ -363,8 +363,8 @@
 			</div><!-- /row -->
 			
 			<div class="row">
-				<div class="col-lg-6 blog-bg hvr-grow">
-					<div class="col-lg-4 centered student-review">
+				<div class="col-lg-6 blog-bg">
+					<div class="col-lg-4 centered">
 					<br>
 						<p><img class="img img-circle" src="assets/img/portico/wake_forest.jpg" width="60px" height="60px"></p>
 						<h4 lang="en">Jason</h4>
@@ -381,8 +381,8 @@
 						<br>
 					</div>
 				</div><!-- /col -->
-				<div class="col-lg-6 blog-bg hvr-grow">
-					<div class="col-lg-4 centered student-review">
+				<div class="col-lg-6 blog-bg">
+					<div class="col-lg-4 centered">
 					<br>
 						<p><img class="img img-circle" src="assets/img/portico/denisen.jpeg" width="60px" height="60px"></p>
 						<h4 lang="en">Leo</h4>
@@ -599,6 +599,21 @@
 				$.cookie('portico-lang', 'en', { expires: 365 });
 				displayLanguage(currLang);
 			}
+
+			var $window = $(window),
+		        $html = $('.blog-bg');
+
+		    function resize() {
+		        if ($window.width() > 514) {
+		            return $html.addClass('hvr-grow');
+		        }
+
+		        $html.removeClass('hvr-grow');
+		    }
+
+		    $window
+		        .resize(resize)
+		        .trigger('resize');
 
 		});
 

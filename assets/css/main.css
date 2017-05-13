@@ -739,12 +739,19 @@ a:after {
     }
 
     .student-review{
-        height:196px;
+        width:100vw;  
+    }
+
+    .student-name{
         width:100vw;  
     }
 
     .portico-logo{
         width:300px;
+    }
+
+    .blog-bg{
+        width:100vw;
     }
 
    /* .accepting-image{
