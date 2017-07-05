@@ -597,15 +597,9 @@
 				currLang = $.cookie('portico-lang');
 				displayLanguage(currLang);
 			}else{
-				if (ref.match(/^https?:\/\/([^\/]+\.)?baidu\.com(\/|$)/i)) {
-				  	currLang = 'zh';
-					$.cookie('portico-lang', 'zh', { expires: 365 });
-					displayLanguage(currLang);
-				}else{
-					currLang = 'en';
-					$.cookie('portico-lang', 'en', { expires: 365 });
-					displayLanguage(currLang);
-				}
+				currLang = 'en';
+				$.cookie('portico-lang', 'en', { expires: 365 });
+				displayLanguage(currLang);
 			}
 
 			var $window = $(window),
